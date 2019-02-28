@@ -1,15 +1,18 @@
+<img src="Create-your-website.jpg">
+
 # Welcome to this course on Data Tech and Innovation mindset !
 On this website you will be able to find all the information you need to follow this class.
+
 
 ## About the course
 You can find a general presentation of the course here :
 [Presentation of the course](https://adelebnt.github.io/Presentation-of-the-course/)
 
+
 ## Previous lessons
 Find the content of the previous lessons here :
 [](url)
 
-<img src="Create-your-website.jpg">
 
 ## How to create your own website ?
 Here are some tips to create your own website using GitHub :
