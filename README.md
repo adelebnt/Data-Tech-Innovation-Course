@@ -7,7 +7,7 @@ Here you can find :
 - Some tips to create your own website using [https://github.com/](url)
 
 ### Contact the professor
-<img src="image/Tech%20data...%20Ghislain%20Mazars.jpg"width"60">
+<img src="image/Tech%20data...%20Ghislain%20Mazars.jpg">
 
 Ghislain MAZARS
 
