@@ -1,6 +1,5 @@
 <img src="Create-your-website.jpg">
 
-# Welcome to this course on Data Tech and Innovation mindset !
 On this website you will be able to find all the information you need to follow this class.
 
 
@@ -19,7 +18,7 @@ Here are some tips to create your own website using GitHub :
 - Find the [steps to follow and some tips](https://adelebnt.github.io/Create-a-website-on-GitHub/) to create your own website
 - Use [GitHub](https://github.com/)
 
-### Contact the professor
+## Contact the professor
 <img src="Tech%20data...%20Ghislain%20Mazars.jpg">
 
 Ghislain MAZARS
