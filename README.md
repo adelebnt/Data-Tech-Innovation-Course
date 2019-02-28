@@ -9,6 +9,8 @@ You can find a general presentation of the course here :
 Find the content of the previous lessons here :
 [](url)
 
+<img src="Create-your-website.jpg">
+
 ## How to create your own website ?
 Here are some tips to create your own website using GitHub :
 - Find the [steps to follow and some tips](https://adelebnt.github.io/Create-a-website-on-GitHub/) to create your own website
