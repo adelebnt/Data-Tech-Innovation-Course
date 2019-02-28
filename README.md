@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to this course on Data Tech and Innovation mindset !
 
-You can use the [editor on GitHub](https://github.com/adelebnt/Data-Tech-Innovation-Course/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+On this website you will be able to find all the information you need to follow this class.
+Here you can find :
+- The content of the previous lessons
+- Some tips to create your own website using [https://github.com/]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
