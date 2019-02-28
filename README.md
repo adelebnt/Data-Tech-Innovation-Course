@@ -3,7 +3,7 @@ On this website you will be able to find all the information you need to follow 
 
 ## About the course
 You can find a general presentation of the course here :
-[General%20presentation%20of%20the%20course](url)
+[Presentation of the course](https://github.com/adelebnt/Data-Tech-Innovation-Course/blob/master/General%20presentation%20of%20the%20course)
 
 ## Previous lessons
 Find the content of the previous lessons here :
