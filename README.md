@@ -3,7 +3,7 @@
 On this website you will be able to find all the information you need to follow this class.
 Here you can find :
 - The content of the previous lessons
-- Some tips to create your own website using [https://github.com/]
+- Some tips to create your own website using [https://github.com/](url)
 
 
 ### Markdown
