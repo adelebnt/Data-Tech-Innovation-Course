@@ -8,8 +8,7 @@ Here you can find :
 
 ### Contact the professor
 <img src="image/Tech%20data...%20Ghislain%20Mazars.jpg"width"60">
-
 Ghislain MAZARS
 
 email address : 
-
+LinkedIn profile : [https://fr.linkedin.com/in/ghislainmazars](url)
