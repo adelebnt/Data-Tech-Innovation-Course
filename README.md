@@ -11,7 +11,7 @@ Find the content of the previous lessons here :
 
 ## How to create your own website ?
 Here are some tips to create your own website using GitHub :
-- Find the steps to follow and some tips to create your own website : [](url)
+- Find the [steps to follow and some tips](https://adelebnt.github.io/Create-a-website-on-GitHub/) to create your own website
 - Use [GitHub](https://github.com/)
 
 ### Contact the professor
