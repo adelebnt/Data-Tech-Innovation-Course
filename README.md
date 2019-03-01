@@ -10,8 +10,7 @@ You can find a general presentation of the course here :
 
 
 ## Previous lessons
-Find the content of the previous lessons here :
-[](url)
+Find the content of the [previous lessons](PreviousLessons)
 
 
 ## How to create your own website ?
