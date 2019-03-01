@@ -8,6 +8,8 @@ On this website you will be able to find all the information you need to follow 
 You can find a general presentation of the course here :
 [Presentation of the course](https://adelebnt.github.io/Presentation-of-the-course/)
 
+Branch : [Presentation-of-the-course](Presentation-of-the-course/README.md)
+
 
 ## Previous lessons
 Find the content of the [previous lessons](PreviousLessons)
