@@ -1,28 +1,14 @@
-Homepage
-<img src="Create-your-website.jpg">
+# General presentation of Tech Data and Innovation mindset
 
-On this website you will be able to find all the information you need to follow this class.
+This course explores the profound changes triggered by the emergence of a data-driven economy – from the review of core data technologies to new business approaches developed in the Silicon Valley. The objective is to strengthen students’ abilities to evolve in an increasingly technology minded environment where new rules and methods emerge rapidly.
 
+To that end, the course:
+- Delivers the theoretical tools and perspective to make sense of the evolutions of recent years, and prepare students for the future;
+- Integrates an experimental component that will allow students to engage in concrete, practical assignments with a DIY mindset.
 
-## About the course
-You can find a general presentation of the course here :
-[Presentation of the course](https://adelebnt.github.io/Presentation-of-the-course/)
+This course intends to:
+- Provide students with sound reference frameworks to understand and assess the impact of tech and data in today’s economic environment;
+- Demystify tech and software through practical (albeit limited-scale) tech assignments;
+- Deliver a continuum of knowledge from technology to data-first business models and new managerial methodologies.
 
-
-## Previous lessons
-Find the content of the [previous lessons](PreviousLessons)
-
-
-## How to create your own website ?
-Here are some tips to create your own website using GitHub :
-- Find the [steps to follow and some tips](https://adelebnt.github.io/Create-a-website-on-GitHub/) to create your own website
-- Use [GitHub](https://github.com/)
-
-## Contact the professor
-<img src="Tech%20data...%20Ghislain%20Mazars.jpg">
-
-Ghislain MAZARS
-
-email address : 
-
-[LinkedIn profile](https://fr.linkedin.com/in/ghislainmazars)
+Return to [Homepage](https://adelebnt.github.io/Data-Tech-Innovation-Course/)
