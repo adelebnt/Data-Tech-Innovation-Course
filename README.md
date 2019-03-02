@@ -8,8 +8,8 @@ On this website you will be able to find all the information you need to follow 
 You can find a general presentation of the course here :
 [Presentation of the course](https://adelebnt.github.io/Presentation-of-the-course/)
 
-By branch [Presentation-of-the-course](https://github.com/adelebnt/Data-Tech-Innovation-Course/edit/Presentation-of-the-course/README.md)
-
+ 
+<center><a href="course_presentation.md">Далее</a><center>
 
 ## Previous lessons
 Find the content of the [previous lessons](PreviousLessons)
