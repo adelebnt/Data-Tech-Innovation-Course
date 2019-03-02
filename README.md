@@ -1,4 +1,7 @@
-Tech, Data & Innovations course
+## Tech, Data & Innovations course
+
+## Course discription
+   You can find course discription here: <center><a href="course_presentation.md" class="button24">Course discription</a><center>
 
 ## Previous lessons 
    Find the content of the [previous lessons](PreviousLessons)
