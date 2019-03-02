@@ -1,9 +1,5 @@
 <!DOCTYPE HTML> 
 
-<head> 
-   <title> Tech, Data and Innovations </title> 
-</head>
-
 <meta charset="utf-8">
 
 <meta name="keywords" content="Tech, Data, Innovations, Vourse, digital management"> 
@@ -11,11 +7,12 @@
 <meta name="description" content="Do you want to understand the world of technologies? Take this course!">
 
 <head>
-  <h1>Homepage</h1>
+  <h1>Tech, Data & Innovations course</h1>
   <img src="Create-your-website.jpg">
 <head> 
 
-On this website you will be able to find all the information you need to follow this class.
+<body>
+<p>On this website you will be able to find all the information you need to follow this class.<p>
 
 
 ## About the course
@@ -42,3 +39,4 @@ Ghislain MAZARS
 email address : 
 
 [LinkedIn profile](https://fr.linkedin.com/in/ghislainmazars)
+</body>
