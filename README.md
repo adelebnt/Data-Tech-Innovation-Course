@@ -1,4 +1,4 @@
-Tech, Data & Innovations course</h1>
+Tech, Data & Innovations course
 
 ## Previous lessons 
    Find the content of the [previous lessons](PreviousLessons)
