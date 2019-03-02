@@ -13,4 +13,4 @@ This course intends to:
 - Demystify tech and software through practical (albeit limited-scale) tech assignments;
 - Deliver a continuum of knowledge from technology to data-first business models and new managerial methodologies.
 
-Return to [Homepage](https://adelebnt.github.io/Data-Tech-Innovation-Course/)
+<center><A href="Page2.html">Homepage</a><center>
