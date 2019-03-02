@@ -39,12 +39,13 @@ email address :
 </body>
 
 pre {
-  padding: 10px;
-
-  font-size: 14px;
-  line-height: 20px;
-
-  background-color: #f5f5f5;
-  border: 1px solid #cccccc;
-  border-radius: 3px;
+    color: white;
+  text-decoration: none;
+  padding: .5em 2em;
+  outline: none;
+  border-width: 2px 0;
+  border-style: solid none;
+  border-color: #FDBE33 #000 #D77206;
+  border-radius: 6px;
+  background: linear-gradient(#F3AE0F, #E38916) #E38916;
 }
