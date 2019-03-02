@@ -10,8 +10,8 @@ Homepage
 
 ## How to create your own website?
    Here are some tips to create your own website using GitHub
-   - Find the <center><a href="lessons.md" > 4 steps to create a website </a><center> to create your own website
-- Use [GitHub](https://github.com/)
+   - Find the <a href="lessons.md" > 4 steps to create a website </a>
+   - Use [GitHub](https://github.com/)
 
 ## Contact the professor
    <img align ="centre" src="Tech%20data...%20Ghislain%20Mazars.jpg">
