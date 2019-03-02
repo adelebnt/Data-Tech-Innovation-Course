@@ -7,7 +7,7 @@
 <meta name="description" content="Do you want to understand the world of technologies? Take this course!">
 
 <head>
-  <h1>Tech, Data & Innovations course</h1>
+  <h1 align="center">Tech, Data & Innovations course</h1>
   <img src="Create-your-website.jpg">
 <head> 
 
