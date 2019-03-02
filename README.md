@@ -29,9 +29,9 @@ Here are some tips to create your own website using GitHub :
 - Use [GitHub](https://github.com/)
 
 ## Contact the professor
-<img src="Tech%20data...%20Ghislain%20Mazars.jpg" align ="centre">
+<img align ="centre" src="Tech%20data...%20Ghislain%20Mazars.jpg">
 
-<p align = "centre>Ghislain MAZARS </p>
+Ghislain MAZARS
 
 email address : 
 
