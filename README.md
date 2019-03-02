@@ -1,5 +1,19 @@
-Homepage
-<img src="Create-your-website.jpg">
+<!DOCTYPE HTML> 
+
+<head> 
+<title>Tech, Data and Innovations</title> 
+</head>
+
+<meta charset="utf-8">
+
+<meta name="keywords" content="Tech, Data, Innovations, Vourse, digital management"> 
+
+<meta name="description" content="Do you want to understand the world of technologies? Take this course!">
+
+<head>
+  <h1>Homepage</h1>
+  <img src="Create-your-website.jpg">
+<head> 
 
 On this website you will be able to find all the information you need to follow this class.
 
