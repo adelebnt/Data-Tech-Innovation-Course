@@ -1,5 +1,7 @@
 ## Tech, Data & Innovations course
 
+<img src="Create-your-website.jpg">
+
 ## Course discription
    You can find course discription here: <center><a href="course_presentation.md" class="button24">Course discription</a><center>
 
