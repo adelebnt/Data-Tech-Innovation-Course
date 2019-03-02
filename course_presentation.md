@@ -1,20 +1,10 @@
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      comments: true  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
-  -
-    scope:
-      path: "" # all files
-    values:
-      layout: "page"
-      show-avatar: true
+# import the yaml module 
+import yaml 
+# load the yaml file 
+document = open('_config.yaml', 'r') 
+# and finally parse the file 
+parsed = yaml.load(document) 
 
-<img src="feps_cs_homepage.jpg">
 
 # General presentation of Tech Data and Innovation mindset
 
