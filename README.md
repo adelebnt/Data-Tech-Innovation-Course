@@ -14,6 +14,14 @@
 <body>
 <p>On this website you will be able to find all the information you need to follow this class.<p>
 
+<div id="menu">
+ <ul>  
+   <li>Раздел 1</li>
+   <li>Раздел 2</li>
+   <li>Раздел 3</li>
+   <li>Раздел 4</li>
+ </ul>
+</div>
 
 ## About the course
 You can find a general presentation of the course here :
