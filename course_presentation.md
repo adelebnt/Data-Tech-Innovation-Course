@@ -1,8 +1,8 @@
-# import the yaml module 
+
 import yaml 
-# load the yaml file 
+
 document = open('_config.yaml', 'r') 
-# and finally parse the file 
+
 parsed = yaml.load(document) 
 
 
