@@ -1,4 +1,4 @@
-composer require _config/yml-generator
+import _config.yml
 
 # How to create your own website ?
 <img src="13305_1541596950_shutterstock-360228971_970x545p.jpg">
