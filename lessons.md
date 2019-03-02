@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="/Data-Tech-Innovation-Course/assets/css/style.css?v=1b261e1adb69c220cb0cd4a490724c4d64389f89" media="screen" type="text/css">
+<link rel="stylesheet" href="/Data-Tech-Innovation-Course/assets/css/print.css" media="print" type="text/css">
+
 # How to create your own website ?
 <img src="13305_1541596950_shutterstock-360228971_970x545p.jpg">
 
