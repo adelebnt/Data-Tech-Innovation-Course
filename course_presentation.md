@@ -1,11 +1,4 @@
 
-import yaml 
-
-document = open('_config.yaml', 'r') 
-
-parsed = yaml.load(document) 
-
-
 # General presentation of Tech Data and Innovation mindset
 
 This course explores the profound changes triggered by the emergence of a data-driven economy – from the review of core data technologies to new business approaches developed in the Silicon Valley. The objective is to strengthen students’ abilities to evolve in an increasingly technology minded environment where new rules and methods emerge rapidly.
