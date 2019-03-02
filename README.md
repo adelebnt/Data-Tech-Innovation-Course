@@ -17,8 +17,8 @@
 
 ## About the course
 You can find a general presentation of the course here :
- <center><a href="course_presentation.md">Course discription</a><center>
-
+ <center><a href="course_presentation.md" class="pre">Course discription</a><center>
+  
 ## Previous lessons
 Find the content of the [previous lessons](PreviousLessons)
 
