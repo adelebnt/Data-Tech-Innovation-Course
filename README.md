@@ -3,7 +3,7 @@ Homepage
 <img src="Create-your-website.jpg">
 
 ## Course discription
-   You can find course discription here: [Course discription](https://github.com/adelebnt/Data-Tech-Innovation-Course/blob/master/course_presentation.md)
+   You can find course discription here: <a href="course_presentation.md" > course discription </a> 
 
 ## Previous lessons 
    Find the content of the [previous lessons](PreviousLessons)
