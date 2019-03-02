@@ -18,25 +18,14 @@
   
 <div id="menu">
  <ul>  
-   <li>Раздел 1</li>
+   <li><pre><center><a href="course_presentation.md" class="button24">Course discription</a><center></pre></li>
    <li>Раздел 2</li>
    <li>Раздел 3</li>
    <li>Раздел 4</li>
  </ul>
 </div> 
 
-<style type="text/css"> 
-#menu {width:604px; height:50px; background:#4E729A;margin:0 auto 0;border-radius:0 0 15px 15px;}
-#menu ul li {float:left; width:130px;text-align:center;height:50px}
-#menu ul {list-style:none;}
-#menu ul li:hover{background:blue;color:white;}
-</style> 
-
-
-
-## About the course
-You can find a general presentation of the course here :
- <pre><center><a href="course_presentation.md" class="button24">Course discription</a><center></pre>
+ 
   
 ## Previous lessons
 Find the content of the [previous lessons](PreviousLessons)
