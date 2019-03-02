@@ -39,7 +39,7 @@ email address :
 </body>
 
 
-pre {
+pre{
  background: linear-gradient(to bottom, #0bc408 0%,#09a206 100%);
  color: #fff;
  font-size: 16px;
