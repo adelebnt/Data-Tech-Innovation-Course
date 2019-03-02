@@ -17,7 +17,7 @@
 
 ## About the course
 You can find a general presentation of the course here :
- <center><a class="bottom" href="course_presentation.md">Course discription</a><center>
+ <pre><center><a class="bottom" href="course_presentation.md">Course discription</a><center></pre>
 
 ## Previous lessons
 Find the content of the [previous lessons](PreviousLessons)
@@ -39,22 +39,13 @@ email address :
 </body>
 
 
-<bottom> 
-<style> 
- background: linear-gradient(to bottom, #0bc408 0%,#09a206 100%);
- color: #fff;
- font-size: 16px;
- text-shadow: 0 1px 0 #757575;
- padding: 4px 0 5px 0;
- margin: 0;
- cursor: pointer;
- border: 0;
- border-top: 1px solid #87c286;
- border-right: 1px solid #0e780c;
- border-left: 1px solid #0e780c;
- border-bottom: 1px solid #0e780c;
- box-shadow: 0 -1px 0 #0e780c, 0 1px 0 #fff;
- width: 150px;
- border-radius: 2px;
-</style> 
-</bottom>
+pre {
+  padding: 10px;
+
+  font-size: 14px;
+  line-height: 20px;
+
+  background-color: #f5f5f5;
+  border: 1px solid #cccccc;
+  border-radius: 3px;
+}
