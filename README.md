@@ -1,5 +1,7 @@
 <!DOCTYPE HTML> 
-
+<head> 
+<link href="css_redactor.css" rel="stylesheet"> 
+</head>
 <meta charset="utf-8">
 
 <meta name="keywords" content="Tech, Data, Innovations, Vourse, digital management"> 
