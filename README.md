@@ -17,7 +17,7 @@
 
 ## About the course
 You can find a general presentation of the course here :
- <center><a href="course_presentation.md" class="pre">Course discription</a><center>
+ <center><a href="course_presentation.md" class="button24">Course discription</a><center>
   
 ## Previous lessons
 Find the content of the [previous lessons](PreviousLessons)
@@ -38,21 +38,20 @@ email address :
 [LinkedIn profile](https://fr.linkedin.com/in/ghislainmazars)
 </body>
 
-
-pre {
- background: linear-gradient(to bottom, #0bc408 0%,#09a206 100%);
- color: #fff;
- font-size: 16px;
- text-shadow: 0 1px 0 #757575;
- padding: 4px 0 5px 0;
- margin: 0;
- cursor: pointer;
- border: 0;
- border-top: 1px solid #87c286;
- border-right: 1px solid #0e780c;
- border-left: 1px solid #0e780c;
- border-bottom: 1px solid #0e780c;
- box-shadow: 0 -1px 0 #0e780c, 0 1px 0 #fff;
- width: 150px;
- border-radius: 2px;
-}
+<style>
+a.button24 {
+  display: inline-block;
+  color: white;
+  text-decoration: none;
+  padding: .5em 2em;
+  outline: none;
+  border-width: 2px 0;
+  border-style: solid none;
+  border-color: #FDBE33 #000 #D77206;
+  border-radius: 6px;
+  background: linear-gradient(#F3AE0F, #E38916) #E38916;
+  transition: 0.2s;
+} 
+a.button24:hover { background: linear-gradient(#f5ae00, #f59500) #f5ae00; }
+a.button24:active { background: linear-gradient(#f59500, #f5ae00) #f59500; }
+ </style>
