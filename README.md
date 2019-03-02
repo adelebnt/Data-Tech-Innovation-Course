@@ -17,7 +17,7 @@
 
 ## About the course
 You can find a general presentation of the course here :
- <center class="pre"><a href="course_presentation.md">Course discription</a><center>
+ <center><a href="course_presentation.md">Course discription</a><center>
 
 ## Previous lessons
 Find the content of the [previous lessons](PreviousLessons)
@@ -39,7 +39,7 @@ email address :
 </body>
 
 
-.pre{
+pre {
  background: linear-gradient(to bottom, #0bc408 0%,#09a206 100%);
  color: #fff;
  font-size: 16px;
