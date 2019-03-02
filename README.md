@@ -39,13 +39,3 @@ email address :
 </body>
 
 
-pre {
-  padding: 10px;
-
-  font-size: 14px;
-  line-height: 20px;
-
-  background-color: #f5f5f5;
-  border: 1px solid #cccccc;
-  border-radius: 3px;
-}
