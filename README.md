@@ -1,7 +1,7 @@
 <!DOCTYPE HTML> 
 
 <head> 
-<Title> Tech, Data and Innovations</Title> 
+   <title> Tech, Data and Innovations </title> 
 </head>
 
 <meta charset="utf-8">
