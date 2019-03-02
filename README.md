@@ -17,10 +17,7 @@
 
 ## About the course
 You can find a general presentation of the course here :
-[Presentation of the course](https://adelebnt.github.io/Presentation-of-the-course/)
-
- 
-<center><a href="course_presentation.md">Далее</a><center>
+ <center><a href="course_presentation.md">Course discription</a><center>
 
 ## Previous lessons
 Find the content of the [previous lessons](PreviousLessons)
