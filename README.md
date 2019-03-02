@@ -11,11 +11,11 @@
 <head>
   <h1 align="center">Tech, Data & Innovations course</h1>
   <img src="Create-your-website.jpg">
-<head> 
+  <p>On this website you will be able to find all the information you need to follow this class.<p>
+</head>
 
 <body>
-<p>On this website you will be able to find all the information you need to follow this class.<p>
-
+  
 <div id="menu">
  <ul>  
    <li>Раздел 1</li>
@@ -23,11 +23,16 @@
    <li>Раздел 3</li>
    <li>Раздел 4</li>
  </ul>
-</div>
+</div> 
+
+<style> 
 #menu {width:604px; height:50px; background:#4E729A;margin:0 auto 0;border-radius:0 0 15px 15px;}
 #menu ul li {float:left; width:130px;text-align:center;height:50px}
 #menu ul {list-style:none;}
 #menu ul li:hover{background:blue;color:white;}
+</style> 
+
+
 
 ## About the course
 You can find a general presentation of the course here :
