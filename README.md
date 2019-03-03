@@ -2,8 +2,9 @@
 Homepage
 <img src="Create-your-website.jpg">
 
-## Course discription
-   You can find course discription here: <a href="course_presentation.md" > course discription </a> 
+## Course description
+   You can find course description here: <a href="course_presentation.md" > course description </a> 
+   Find the [general description](https://adelebnt.github.io/Presentation-of-the-course/) of the course
 
 ## Previous lessons 
    Find the content of the [previous lessons](PreviousLessons)
@@ -11,6 +12,7 @@ Homepage
 ## How to create your own website?
    Here are some tips to create your own website using GitHub
    - Find the <a href="lessons.md" > 4 steps to create a website </a>
+   - Find the steps to follow to [create your own website](https://adelebnt.github.io/Create-a-website-on-GitHub/)
    - Use [GitHub](https://github.com/)
 
 ## Contact the professor
