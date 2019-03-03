@@ -4,6 +4,7 @@ Homepage
 
 ## Course description
    You can find course description here: <a href="course_presentation.md" > course description </a> 
+   
    Find the [general description](https://adelebnt.github.io/Presentation-of-the-course/) of the course
 
 ## Previous lessons 
