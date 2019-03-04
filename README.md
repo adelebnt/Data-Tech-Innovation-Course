@@ -4,7 +4,7 @@ Homepage
 
 ## Course description
      
-   YOu can find course discription here: [general description](https://adelebnt.github.io/Description-of-the-course/) of the course
+   You can find course discription here: [general description](https://adelebnt.github.io/Description-of-the-course/) of the course
 
 ## Previous lessons 
    Find the content of the [previous lessons](PreviousLessons)
