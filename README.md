@@ -12,7 +12,6 @@ Homepage
 
 ## How to create your own website?
    Here are some tips to create your own website using GitHub
-   - Find the <a href="lessons.md" > 4 steps to create a website </a>
    - Find the steps to follow to [create your own website](https://adelebnt.github.io/Create-a-website-on-GitHub/)
    - Use [GitHub](https://github.com/)
 
